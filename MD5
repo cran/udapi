@@ -1,0 +1,14 @@
+c849a95bf202a5725c2fb3e89e7f141d *DESCRIPTION
+c7d051aaebacbf106ef87683645ca019 *LICENSE
+a23f601a3369e0a5bc16fea838c969ae *NAMESPACE
+1039a920da314c4e9d7a53ad69f378e1 *NEWS
+fd72ff3d02b2a248282d6ae35d6fe742 *R/query.R
+359ae7709863045b75046257890481f9 *R/udapi.R
+5bcd7c0d3bb3aa6354b14c21435805a9 *R/utils.R
+8f5a27433efb9a752fed23d032a96752 *README.md
+e61b12f1ddf0ced8145b03171856b48f *man/get_tags.Rd
+7f27889c95b176dfca9fd73d0c7c5dcf *man/get_term.Rd
+734f5797f44cd66814827006208d0a7a *man/random_term.Rd
+17336438d1fdae9d0821c3df9d99c003 *man/udapi.Rd
+0f11e1eaaf330767c1c5f58bda6d202e *tests/testthat.R
+e0cc1f007cca35f412ac2f1a5cd80a3e *tests/testthat/test_udapi.R
